@@ -1,4 +1,4 @@
-public class Kucing {
+public class  Kucing {
     public String Nama = "Bilqis";
     public String Namapanggilan = "Qies";
     public int Umur = 2;
