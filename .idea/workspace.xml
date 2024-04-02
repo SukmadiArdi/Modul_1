@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2153c1d8-b623-4f96-bc57-8a29b4e132d5" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kucing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kucing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modul 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Modul 1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Balok.java" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Balok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Kubus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Kubus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +45,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgeCheck.executor": "Run",
+    "Application.AgeValidity.executor": "Run",
+    "Application.Interface.executor": "Run",
     "Application.Kucing.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main2.executor": "Run",
+    "Application.Perpustakaan.executor": "Run",
+    "Application.StringEquality.executor": "Run",
     "Application.Text02.executor": "Run",
     "Application.Text03.executor": "Run",
+    "Application.WatchMovie.executor": "Run",
+    "Application.mainInterface.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/codelab_pbo_24",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/codelab4_pbo_24",
     "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/PBO_JAVA/Modul 1/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }

@@ -9,6 +9,7 @@ public class Balok extends BangunRuang {
     Balok(String nameBangun) {
         super(nameBangun);
     }
+
     @Override
     public void inputNilai() {
         System.out.println("Masukkan panjang balok :");
@@ -18,11 +19,13 @@ public class Balok extends BangunRuang {
         System.out.println("Masukkan tinggi balok :");
         tinggi = scanner.nextDouble();
     }
+
     @Override
     public void luasPermukaan() {
         double luasPermukaan = 2 * ((panjang * lebar) + (panjang * tinggi) + (lebar * tinggi));
         System.out.println("Luas permukaan balok adalah: " + luasPermukaan);
     }
+
     @Override
     public void volume() {
         double volume = panjang * lebar * tinggi;
