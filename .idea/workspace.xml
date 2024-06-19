@@ -4,118 +4,85 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2153c1d8-b623-4f96-bc57-8a29b4e132d5" name="Changes" comment="update">
+    <list default="true" id="27edd635-b340-4c1d-9c01-714a0231136b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modul 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Modul 1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Balok.java" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Balok.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Kubus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Kubus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2dBFDp0cGQbKSxXsP1OZ4d3tAoV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2i3MfTbGob4xuoXuY46NcceseQf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.AgeCheck.executor": "Run",
-    "Application.AgeValidity.executor": "Run",
-    "Application.Interface.executor": "Run",
-    "Application.Kucing.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main2.executor": "Run",
-    "Application.Perpustakaan.executor": "Run",
-    "Application.StringEquality.executor": "Run",
-    "Application.Text02.executor": "Run",
-    "Application.Text03.executor": "Run",
-    "Application.WatchMovie.executor": "Run",
-    "Application.mainInterface.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.google.cloudcode.ide_session_index": "20240619_0004",
     "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/codelab4_pbo_24",
-    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/PBO_JAVA/Modul 1/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/PBO_JAVA_SM2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.scopes",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2153c1d8-b623-4f96-bc57-8a29b4e132d5" name="Changes" comment="" />
-      <created>1709473448083</created>
+      <changelist id="27edd635-b340-4c1d-9c01-714a0231136b" name="Changes" comment="" />
+      <created>1718714910927</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709473448083</updated>
+      <updated>1718714910927</updated>
+      <workItem from="1718714911953" duration="1773000" />
+      <workItem from="1718718256948" duration="6000" />
+      <workItem from="1718767683493" duration="15000" />
+      <workItem from="1718767725185" duration="90000" />
+      <workItem from="1718767904753" duration="199000" />
+      <workItem from="1718768109291" duration="115000" />
+      <workItem from="1718768233382" duration="326000" />
     </task>
-    <task id="LOCAL-00001" summary="update">
-      <option name="closed" value="true" />
-      <created>1709474988085</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1709474988085</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update">
-      <option name="closed" value="true" />
-      <created>1709524987132</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1709524987132</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update">
-      <option name="closed" value="true" />
-      <created>1709535720979</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1709535720979</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Modul - 3/Codelab/Assign codelab fix code before" />
+      <path value="$PROJECT_DIR$/Modul - 4/Codelab/Before Fix The Code" />
+    </ignored-roots>
   </component>
 </project>
